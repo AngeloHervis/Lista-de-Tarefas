@@ -31,4 +31,4 @@ A Lista de Tarefas é um aplicativo web simples para gerenciar suas tarefas diá
 ## Autor
 Angelo Hervis
 - GitHub: [AngeloHervis](https://github.com/AngeloHervis)
-- LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelohervis/)
+- LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelo-hervis/)
